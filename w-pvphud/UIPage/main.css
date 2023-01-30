@@ -1,0 +1,20 @@
+.all {
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    border-radius: 8px;
+    background-color: rgb(162, 0, 255);
+    top: 95%;
+    left: 82%;
+    box-shadow: 0 0 40px rgb(132, 0, 255);
+}
+
+
+#logo 
+{
+ position: absolute;
+ width: 6.5vw;
+ transform: translate(90vw, 2vw);
+ opacity: 0.7;
+
+}
